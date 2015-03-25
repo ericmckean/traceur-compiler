@@ -1,0 +1,1 @@
+Traceur compiler uses google javascript [style](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
